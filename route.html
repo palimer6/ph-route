@@ -391,6 +391,10 @@
     }
     td:has(img) {
         vertical-align: top;
+        max-width: 400px;
+    }
+    img {
+        max-width: -webkit-fill-available;
     }
     td:has(span) {
         text-align: center;
@@ -399,8 +403,9 @@
         writing-mode: vertical-lr;
         transform: scale(-1);
     }
-    body {
+    table {
         font-family: monospace;
+        /*font-size: large !important;*/
     }
 </style>
 </html>

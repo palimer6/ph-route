@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="754b075d-ad8d-42d5-b94f-55a2306f9a9c" name="Changes" comment="without images">
+    <list default="true" id="754b075d-ad8d-42d5-b94f-55a2306f9a9c" name="Changes" comment="sized images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/route.html" beforeDir="false" afterPath="$PROJECT_DIR$/route.html" afterDir="false" />
     </list>
@@ -108,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676741584788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added images">
+      <created>1676743887246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676743887246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sized images">
+      <created>1676744192320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676744192320</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,7 +130,9 @@
     <MESSAGE value="started html" />
     <MESSAGE value="mid" />
     <MESSAGE value="without images" />
-    <option name="LAST_COMMIT_MESSAGE" value="without images" />
+    <MESSAGE value="added images" />
+    <MESSAGE value="sized images" />
+    <option name="LAST_COMMIT_MESSAGE" value="sized images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
