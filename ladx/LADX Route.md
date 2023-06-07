@@ -91,7 +91,7 @@
 # 4.1 After Angler
 * left, get MANBO
 * right, stairs, left, warp to animal
-* leave village, go in water, go to catfish
+* leave village, up left, go in water, go to catfish
 
 # 5 Catfish's Maw
 * Left into stairs for KEY in crystals
