@@ -141,6 +141,7 @@
 * Main Slide top LOCK right way
 * left bomb arrow top, bomb left
 * shoot statue, KEY, down refill, left KEY
+* optional up right for more arrows
 * back through bombed LOCK LOCK
 * Boxer, MAGIC ROD, Manbo
 * Incinerate Vire, left, get top key, Manbo
