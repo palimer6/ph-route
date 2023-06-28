@@ -45,7 +45,7 @@
 * Zora Mask
 * Great Bay Owl Statue
 * Upstairs Hookshot
-* <img src="pirate_path.png">
+* <img src="pirate_path.png" alt="pirate_path">
 * 🔴 Hookshot Room
 * 🔵 Backflip
 * Soaring Drop Off Eggs
