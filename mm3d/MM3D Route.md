@@ -55,24 +55,54 @@
 * Zora Egg #6 Across Right
 * Drop Two More
 * Zora Egg #7 Bottom Right
-* New Wave Bossa Nova
-* Enter Great Bay Temple
-* Top Path Boss Key
-* Underwater Small Key
-* Bottom Wart Ice Arrows
-* Open Red Pipes
-* Top Path More Red Pipes
-* Song Soaring Red Pipes
-* Yellow Pipes
-* Straight Ahead Yellow Pipes
-* Top Path Seesaw Green Pipes
-* Bottom Path Enter Gyorg
-* Gyorg's Remains
+## Great Bay Temple
+* get fairy in barrel on left
+* 15 bombs is good
+* enter
+* valve in water on right
+* on east elevator, use spout
+* north into big spinny
+* upper red path
+* leave again
+* door
+* key in chest underwater
+* go in current
+* lower red path
+* climb red pipe, locked door
+* Miniboss Wart
+* Fight with Bombs and Fire Arrows to the Eye
+* ICE ARROWS
+* return 2 rooms, jump into center via frozen octorok, valve
+* leave due south
+* upper red path
+* ice arrow to high door
+* frozen chuchu to valve
+* through next rooms
+* ice arrows to northern path
+* Miniboss Gekko BIG KEY, soaring
+* hookshot to northwest ceiling corner, crank big red
+* crank big yellow
+* big spinny room, freeze waterfall, ladder, door
+* hookshot, 2 arrows, valve, back where came
+* middle green path
+* northwestern elevator, freeze waterfall
+* use frozen wheel to door
+* unfreeze second seesaw while on it
+* jump over, unfreeze
+* green valve
+* go on ground seesaw, unfreeze
+* leave, bottom green path
+* follow green pipe, green valve, jump over spout, Gyorg
+
+* shoot with arrows in first phase
+* postpone water combat as long as possible with ice platforms, pelt with arrows
+* cut bomb into him close, DONT GET VORED
+## Way to Ikana
 * Keg, Fish, Nut (80 rups)
 * Grotto Milk (in south stump)
 * Bean (southern swamp salesman
 * Ikana Owl Statue
-* Stone Mask Song of Storms
+* Song of Storms
 * Gibdo Mask
 * Right Beans D, Left Fish
 * Right Nuts D, Left Bombs D, Fight Big Poe
