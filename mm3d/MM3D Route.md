@@ -93,11 +93,11 @@
 * go on ground seesaw, unfreeze
 * leave, bottom green path
 * follow green pipe, green valve, jump over spout, Gyorg
-
+### Gyorg
 * shoot with arrows in first phase
 * postpone water combat as long as possible with ice platforms, pelt with arrows
 * cut bomb into him close, DONT GET VORED
-## Way to Ikana
+## Ikana
 * Keg, Fish, Nut (80 rups)
 * Grotto Milk (in south stump)
 * Bean (southern swamp salesman
@@ -115,21 +115,56 @@
 * Hookshot 1st Switch Elegy Link
 * Hookshot Hookshot Step
 * Stand on Block Elegy Link
-* Face Dungeon Right Block Elegy Link
-* Enter Stone Tower Temple
-* Left, Bomb Floor, Key
-* Swim, Switch, Key
-* Light Arrows Garo Master Ice
-* Soaring Flip Dungeon
-* Right, Switch, Chest, Key
-* Top, Wizzrobe, Right, Key
-* Boss Key
-* Backtrack, Left, Switch, Hook Chest
-* Enter Twinmold
-* Giant's Mask
-* Twinmold's Remains
-* Oath to Order
-* Begin Final Boss
-* Defeat Majora's Mask
-* Defeat Majora's Incarnation
-* Defeat Marora's Wrath
+* **fill fairies**, refill on pots by STT
+* Right Switch Link
+* Block, Elegy
+* Enter Temple
+## Stone Tower Temple
+* Left, bomb wall, block out, right on switch
+* go on beeg switch, goron elegy
+* around next corner, zora elegy
+* left, link elegy
+* bomb floor in new room, fall
+* kill all armos with goron, SMALL KEY
+* back up, locked door
+* dolphin jump onto opposite ledge
+* deku hop to switch, SMALL KEY
+* dive to east, surface, locked door
+* stored light puzzle (8 ticks), next room
+* deku flight, next room, GARO MASTER, LIGHT ARROWS, soaring
+* **refill fairies**
+* flip temple, right, light block
+* deku flight to high, through hole, switch, SMALL KEY
+* deku flight to TOP, locked door
+* flip, goron over, flip
+* do this whole dang pushing puzzle, into door
+* WIZZROBE with Light Arrows
+* hookshot to new chest, deku over gap
+* deku into right hole, kill armos flippers as needed
+* southmost switch, Link
+* left chest, small key
+* leave to east, shoot spikebombs, deku in there, deku to east
+* Batman, light arrows to scare bats, hit
+* BOSS KEY, leave again, deku back to west, southwest door
+* flip boy, switch+
+* **refill fairies**
+* hookshot to new chest
+* 4 light arrows on eyegore
+* switch, hookshot to chest, hookshot to target, TWINMOLD
+### Twinmold
+* focus on blue, normal arrows
+* GIANT MASK
+* hit enough in one cycle
+* grab tail, SPIN PAD
+* throw boulders
+## Final
+* fill to two faires with ikana bush
+* enter clock tower
+* oath to order
+* talk main kid
+### Mask
+* zora shoot, goron punch
+* Light or normal arrow remains
+* mirror shield beam of majora
+### Incarnation + Wrath
+* shoot with light or normal, goron punch
