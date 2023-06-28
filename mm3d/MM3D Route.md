@@ -1,3 +1,4 @@
+# Cycle 0+1
 * Enter Clock Town
 * Grandma Scarecrow
 * Fairy 100 Magic Bombs Clock Town
@@ -17,6 +18,7 @@
 * Bottle Target Game
 * Mountain Village Owl Song of Time
 
+# Cycle 2
 * Soar Mountain Village, smash snow for bombs
 * Enter Goron Shrine
 * Lens of Truth
@@ -33,6 +35,7 @@
 * Goht's Remains
 * Get Powder Keg
 
+# Cycle 3+
 * New Day Money Keg Ranch
 * Epona's Song
 * Gorman Race Garo Mask
