@@ -45,8 +45,13 @@
 * Zora Mask
 * Great Bay Owl Statue
 * Upstairs Hookshot
-* <img src="pirate_path.png" width="500">
-* Drop Off, head to two pillars
+* <img src="pirate_path.png">
+* <span style="color:red">Hookshot Room</span>
+* <span style="color:blue">Backflip</span>
+* Soaring Drop Off Eggs
+* <span style="color:cyan">Directly left, 2 Hookshots</span>
+* <span style="color:lime">Directly left, 3 Hookshots</span>
+* Drop Off Two More Eggs
 * Zora Egg #5 Top Eel
 * Zora Egg #6 Across Right
 * Drop Two More
