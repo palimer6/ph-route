@@ -46,11 +46,11 @@
 * Great Bay Owl Statue
 * Upstairs Hookshot
 * <img src="pirate_path.png">
-* <span style="color:red">Hookshot Room</span>
-* <span style="color:blue">Backflip</span>
+* 🔴 Hookshot Room
+* 🔵 Backflip
 * Soaring Drop Off Eggs
-* <span style="color:cyan">Directly left, 2 Hookshots</span>
-* <span style="color:lime">Directly left, 3 Hookshots</span>
+* 🟢 Directly left, 2 Hookshots
+* 🟡 Directly left, 3 Hookshots
 * Drop Off Two More Eggs
 * Zora Egg #5 Top Eel
 * Zora Egg #6 Across Right
