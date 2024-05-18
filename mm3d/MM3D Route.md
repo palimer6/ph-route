@@ -23,6 +23,7 @@
 * Enter Goron Shrine
 * Lens of Truth
 * R L R Goron Mask
+* Get Hot Water under Grave
 * Lullaby Intro
 * Goron Lullaby
 * Enter Snowhead Temple
