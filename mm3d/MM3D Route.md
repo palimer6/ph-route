@@ -1,7 +1,7 @@
 # Cycle 0+1
 * Enter Clock Town
 * Grandma Scarecrow
-* Fairy 100 Magic Bombs Clock Town
+* Fairy Magic Bombs Clock Town (50r)
 * Song of Healing
 * Song of Soaring Statue Stick
 * D2 - R L S L L R - B L R - Potion
@@ -37,7 +37,7 @@
 * Get Powder Keg
 
 # Cycle 3+
-* New Day Money Keg Ranch
+* New Day Money Keg Ranch (60+r)
 * Epona's Song
 * Gorman Race Garo Mask
 * Captain's Hat
