@@ -16,7 +16,7 @@
 * Across, Boss Key
 * Enter Odolwa
 * Odolwa's Remains
-* Bottle Target Game
+* Bottle Target Game (20+)
 * Mountain Village Owl Song of Time
 
 # Cycle 2
@@ -28,12 +28,19 @@
 * Lullaby Intro
 * Goron Lullaby
 * Enter Snowhead Temple
-* Right Side Small Key
-* Left Side Key Snowball
-* Across Twice Fire Arrow
-* Fall Middle Raise Pillar
-* Punch Blocks Boss Key
-* Fall Middle Enter Boss
+* Right Side, Main Room Across, Small Key
+* Melt to first room, Left Side, bomb, upstairs
+* Key in Snowball
+* Across Twice
+* Wizzrobe with Punch, Fire Arrow
+* Fall down Middle at ramp, melt green by yellow
+* All torches, small room, Raise Pillar
+* Up from basement, right room, upstairs
+* Punch Blocks, upstairs, Punch Blocks
+* Roll along wall, punch snowballs, upstairs
+* Roll across, Deku Flower to right door
+* Wizzrobe with Fire Arrows, Boss Key
+* Fall Onto White Platform, upstairs, Enter Boss
 * Goht's Remains
 * Get Powder Keg
 
