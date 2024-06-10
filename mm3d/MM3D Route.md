@@ -26,7 +26,7 @@
 * R L R Goron Mask
 * Get Hot Water under Grave
 * Lullaby Intro
-* Goron Lullaby
+* Goron Lullaby, Soar Mountain Village
 * Enter Snowhead Temple
 * Right Side, Main Room Across, Small Key
 * Melt to first room, Left Side, bomb, upstairs
