@@ -13,7 +13,7 @@
 * Back and across, enter 2nd floor
 * Step on switch, door, door
 * Hero's Bow
-* Boss Key
+* Across, Boss Key
 * Enter Odolwa
 * Odolwa's Remains
 * Bottle Target Game
