@@ -9,7 +9,7 @@
 * Right Magic Bean
 * Sonata of Awakening
 * Enter Woodfall Temple
-* Right Side Small Key
+* Right Side, first room, Small Key
 * Enter 2nd Floor
 * Hero's Bow
 * Boss Key
