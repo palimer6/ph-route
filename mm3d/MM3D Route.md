@@ -10,7 +10,8 @@
 * Sonata of Awakening
 * Enter Woodfall Temple
 * Right Side, first room, Small Key
-* Enter 2nd Floor
+* Back and across, enter 2nd floor
+* Step on switch, door, door
 * Hero's Bow
 * Boss Key
 * Enter Odolwa
