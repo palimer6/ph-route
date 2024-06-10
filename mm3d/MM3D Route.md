@@ -21,8 +21,8 @@
 
 # Cycle 2
 * Soar Mountain Village, smash snow for bombs
-* Enter Goron Shrine
-* Lens of Truth
+* Talk Baby
+* Lens of Truth, Soar Mountain Village
 * R L R Goron Mask
 * Get Hot Water under Grave
 * Lullaby Intro
