@@ -177,4 +177,4 @@
 * Light or normal arrow remains
 * mirror shield beam of majora
 ### Incarnation + Wrath
-* shoot with light or normal, goron punch
+* shoot with normal, goron punch
