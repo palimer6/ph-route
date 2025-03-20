@@ -75,7 +75,7 @@
 * south, go to walrus
 * desert, all north, lanmolas
 * walk back to animal, learn WINDFISH
-* warp to mabe
+* warp to mabe again
 * go super up, buy potion next to manbo pond
 * go up next to tal tal stairs, but right instead
 * put in angler key
