@@ -20,3 +20,79 @@
   * 100r-189r: warp kakariko, get silver
   * 200r+: warp ravio, [Ice] (100), [Tornado] (20), [Bomb] (50), [Hammer] (20)
 # House of Gales
+
+# Post Gales
+* Warp kakariko, power gloves from rosso
+* death mountain climb, tower of hera weathervane
+
+# Tower of Hera
+
+# Post Hera
+* Lost Woods
+ 1) Follow poe on right
+ 2) Don't follow upper or lower poe
+ 3) Walk down
+* warp ravio, get quick equip
+
+# Hyrule Castle
+
+# Lorule
+* Blacksmith Weathervane
+* 
+
+# Thieves Hideout
+* get ore
+
+# Post Thieves
+* warp blacksmith, vacant house weathervane
+* ravio, rent [Sand] (50), [Fire] (100), [Hookshot] (50)
+* portal in octorok field
+* dark maze
+
+# Dark Palace
+* get ore
+
+# Post Dark
+* warp vacant
+* upgrade sword in hyrule
+* elder's house portal (kakariko)
+* to Skull Woods
+
+# Skull Woods
+
+# Post Skull
+* warp vacant
+* dark lake hylia top left portal
+* light lake hylia bottom left portal
+* pillar portal in misery mire
+* go to desert palace
+
+# Desert Palace
+* Do ledge sand rod strats
+
+# Post Desert
+* warp thieves
+* rent bomb flower (200)
+* open swamp in dark hylia
+
+# Swamp Palace
+
+# Post Swamp
+* warp vacant, portal, warp hera
+* through rosso's ore mine
+* portal to lorule, up dark mine
+* Enter Ice Ruins
+
+# Ice Ruins
+
+# Post Ice
+* warp vacant, portal
+* from lake shop dash down and merge around corner, portal
+* save turtles
+
+# Turtle Rock
+
+# Post Turtle
+* Warp vacant, head to Lorule Castle
+
+# Lorule Castle
