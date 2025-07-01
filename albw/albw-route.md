@@ -7,7 +7,7 @@
 * Deathwarp if possible
 * Eastern Palace signs, deathwarp again, Bow
 
-# Eastern Palace
+# Eastern Palace [Bow]
 * Leave with around 288 rupees
 
 # Post Eastern
@@ -19,13 +19,13 @@
   * 90r-99r: warp ravio, [Ice] (0), [Tornado] (20), [Bomb] (50), [Hammer] (20)
   * 100r-189r: warp kakariko, get silver
   * 200r+: warp ravio, [Ice] (100), [Tornado] (20), [Bomb] (50), [Hammer] (20)
-# House of Gales
+# House of Gales [Tornado]
 
 # Post Gales
 * Warp kakariko, power gloves from rosso
 * death mountain climb, tower of hera weathervane
 
-# Tower of Hera
+# Tower of Hera [Hammer]
 
 # Post Hera
 * Lost Woods
@@ -38,7 +38,6 @@
 
 # Lorule
 * Blacksmith Weathervane
-* 
 
 # Thieves Hideout
 * get ore
@@ -49,7 +48,7 @@
 * portal in octorok field
 * dark maze
 
-# Dark Palace
+# Dark Palace [Bomb]
 * get ore
 
 # Post Dark
@@ -67,7 +66,7 @@
 * pillar portal in misery mire
 * go to desert palace
 
-# Desert Palace
+# Desert Palace [Sand]
 * Do ledge sand rod strats
 
 # Post Desert
@@ -75,7 +74,7 @@
 * rent bomb flower (200)
 * open swamp in dark hylia
 
-# Swamp Palace
+# Swamp Palace [Hookshot]
 
 # Post Swamp
 * warp vacant, portal, warp hera
@@ -83,16 +82,16 @@
 * portal to lorule, up dark mine
 * Enter Ice Ruins
 
-# Ice Ruins
+# Ice Ruins [Fire]
 
 # Post Ice
 * warp vacant, portal
 * from lake shop dash down and merge around corner, portal
 * save turtles
 
-# Turtle Rock
+# Turtle Rock [Ice]
 
 # Post Turtle
 * Warp vacant, head to Lorule Castle
 
-# Lorule Castle
+# Lorule Castle [Bow] [Hookshot] [Bomb]
