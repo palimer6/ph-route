@@ -89,7 +89,7 @@
 * from lake shop dash down and merge around corner, portal
 * save turtles
 
-# Turtle Rock [Ice]
+# Turtle Rock [Ice] [Bomb]
 
 # Post Turtle
 * Warp vacant, head to Lorule Castle
