@@ -82,7 +82,7 @@
 * portal to lorule, up dark mine
 * Enter Ice Ruins
 
-# Ice Ruins [Fire]
+# Ice Ruins [Fire] [Bomb] [Tornado]
 
 # Post Ice
 * warp vacant, portal
