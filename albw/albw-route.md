@@ -76,7 +76,7 @@
 
 # Swamp Palace [Hookshot] [Tornado]
 
-# Post Swamp
+# Post Swamp [Hookshot]
 * warp vacant, portal, warp hera
 * through rosso's ore mine
 * portal to lorule, up dark mine
