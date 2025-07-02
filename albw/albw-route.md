@@ -39,7 +39,7 @@
 # Lorule
 * Blacksmith Weathervane
 
-# Thieves Hideout
+# Thieves Hideout [Bomb]
 * get ore
 
 # Post Thieves
@@ -48,7 +48,7 @@
 * portal in octorok field
 * dark maze
 
-# Dark Palace [Bomb]
+# Dark Palace [Bomb] [Hookshot]
 * get ore
 
 # Post Dark
@@ -57,7 +57,7 @@
 * elder's house portal (kakariko)
 * to Skull Woods
 
-# Skull Woods
+# Skull Woods [Hookshot]
 
 # Post Skull
 * warp vacant
