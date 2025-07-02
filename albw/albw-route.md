@@ -74,7 +74,7 @@
 * rent bomb flower (200)
 * open swamp in dark hylia
 
-# Swamp Palace [Hookshot]
+# Swamp Palace [Hookshot] [Tornado]
 
 # Post Swamp
 * warp vacant, portal, warp hera
