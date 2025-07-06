@@ -57,7 +57,7 @@
 * elder's house portal (kakariko)
 * to Skull Woods
 
-# Skull Woods [Hookshot]
+# Skull Woods [Hookshot] [Hammer]
 
 # Post Skull
 * warp vacant
