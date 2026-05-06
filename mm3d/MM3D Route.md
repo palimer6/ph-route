@@ -3,11 +3,12 @@
 * Grandma Scarecrow
 * Fairy Magic Bombs Clock Town (50r)
 * Song of Healing
-* Song of Soaring Statue Stick
+* Swamp Statue Stick
 * D2 - R L S L L R - B L R - Potion
-* B L R - Soaring Boat Ride
-* Right Magic Bean
+* B L R - Void - Scrub Beans - Boat Ride
+* Right Bean Soil
 * Sonata of Awakening
+* Song of Soaring
 * Enter Woodfall Temple
 * Right Side, first room, Small Key
 * Back and across, enter 2nd floor
@@ -43,6 +44,7 @@
 * Fall Onto White Platform, upstairs, Enter Boss
 * Goht's Remains
 * Get Powder Keg
+* Goron Race Bottle
 
 # Cycle 3+
 * New Day Money Keg Ranch (60+r)
@@ -110,7 +112,7 @@
 ## Ikana
 * Keg, Fish, Nut (90 rups)
 * Grotto Milk (in south stump)
-* Bean (southern swamp salesman
+* Bean (southern swamp salesman)
 * Ikana Owl Statue
 * Song of Storms
 * Gibdo Mask
