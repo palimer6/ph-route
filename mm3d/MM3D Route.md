@@ -5,7 +5,8 @@
 * Song of Healing
 * Swamp Statue Stick
 * D2 - R L S L L R - B L R - Potion
-* B L R - Void - Scrub Beans - Boat Ride
+* B L R - Void - Boat Ride
+* Right Stealth to Hole, Beans
 * Right Bean Soil
 * Sonata of Awakening
 * Song of Soaring
