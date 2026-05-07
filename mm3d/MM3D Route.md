@@ -111,7 +111,7 @@
 * postpone water combat as long as possible with ice platforms, pelt with arrows
 * cut bomb into him close, DONT GET VORED
 ## Ikana
-* Keg, Fish, Nut (90 rups)
+* Keg, Fish, Nut (130 rups)
 * Grotto Milk (in south stump)
 * Bean (southern swamp salesman)
 * Ikana Owl Statue
