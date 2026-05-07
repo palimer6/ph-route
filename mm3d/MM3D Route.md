@@ -2,7 +2,7 @@
 * Enter Clock Town
 * Grandma Scarecrow
 * Fairy Magic Bombs Clock Town (50r)
-* Song of Healing
+* Song of Healing - Owl Statue
 * Swamp Statue Stick
 * D2 - R L S L L R - B L R - Potion
 * B L R - Void - Boat Ride
