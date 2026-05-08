@@ -51,7 +51,7 @@
 * New Day Money Keg Ranch (60+r)
 * Epona's Song
 * Gorman Race Garo Mask
-* Captain's Hat
+* Captain's Hat (Bow to stun, then Goron)
 * Night First Day Enter Grave
 * Song of Storms Inverted
 * Zora Mask
