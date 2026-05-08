@@ -59,7 +59,7 @@
 * Upstairs Hookshot
 * <img src="pirate_path.png" alt="pirate_path">
 * 🔴 Hookshot Room
-* 🔵 Backflip
+* 🔵 Backflip (Slightly left from pole, stand far from ledge)
 * Soaring Drop Off Eggs
 * 🟢 Directly left, 2 Hookshots
 * 🟡 Directly left, 3 Hookshots
