@@ -92,7 +92,7 @@
 * frozen chuchu to valve
 * through next rooms
 * ice arrows to northern path
-* Miniboss Gekko BIG KEY, soaring
+* Miniboss Gekko BIG KEY, soaring, **refill fairies**
 * hookshot to northwest ceiling corner, crank big red
 * crank big yellow
 * big spinny room, freeze waterfall, ladder, door
@@ -107,9 +107,9 @@
 * leave, bottom green path
 * follow green pipe, green valve, jump over spout, Gyorg
 ### Gyorg
-* shoot with arrows in first phase
-* postpone water combat as long as possible with ice platforms, pelt with arrows
-* cut bomb into him close, DONT GET VORED
+* stun with scales or arrow
+* damage with barrier, try to multistun
+* DONT GET VORED
 ## Ikana
 * Keg, Fish, Nut (130 rups)
 * Grotto Milk (in south stump)
