@@ -140,8 +140,7 @@
 * bomb floor in new room, fall
 * kill all armos with goron, SMALL KEY
 * back up, locked door
-* dolphin jump onto opposite ledge
-* deku hop to switch, SMALL KEY
+* dolphin jump onto opposite ledge, SMALL KEY
 * dive to east, surface, locked door
 * stored light puzzle (8 ticks), next room
 * deku flight, next room, GARO MASTER, LIGHT ARROWS, soaring
