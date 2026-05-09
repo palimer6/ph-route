@@ -111,14 +111,14 @@
 * damage with barrier, try to multistun
 * DONT GET VORED
 ## Ikana
-* Keg, Fish, Nut (130 rups)
+* Keg, Fish, 10 Nuts (130 rups)
 * Grotto Milk (in south stump)
-* Bean (southern swamp salesman)
+* 5 Beans (southern swamp salesman)
 * Ikana Owl Statue
 * Song of Storms
 * Gibdo Mask
-* Right Beans D, Left Fish
-* Right Nuts D, Left Bombs D, Fight Big Poe
+* Right 5 Beans D, Left Fish
+* Right 10 Nuts D, Left 10 Bombs D, Fight Big Poe
 * Backtrack to Fish Door, Forward Poe D, Forward Milk D
 * Mirror Shield
 * Left Side Toss Keg Enter
