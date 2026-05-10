@@ -161,14 +161,10 @@
 * flip boy, switch+
 * **refill fairies**
 * hookshot to new chest
-* 4 light arrows on eyegore
+* 4 light arrows on eyegore, GIANT MASK
 * switch, hookshot to chest, hookshot to target, TWINMOLD
 ### Twinmold
-* focus on blue, normal arrows
-* GIANT MASK
-* hit enough in one cycle
-* grab tail, SPIN PAD
-* throw boulders
+* Shoot blue/red, 3 fire/ice + 1 normal (3 * 6 + 2 = 20)
 ## Final
 * fill to two faires with ikana bush
 * enter clock tower
