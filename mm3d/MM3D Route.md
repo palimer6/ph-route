@@ -175,5 +175,7 @@
 * zora shoot, goron punch
 * Light or normal arrow remains
 * mirror shield beam of majora
-### Incarnation + Wrath
-* shoot with normal, goron punch
+### Incarnation
+* shoot with normal, goron slam for double hit
+### Wrath
+* shoot with light, even without magic, goron punch
