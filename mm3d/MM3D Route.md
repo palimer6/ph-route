@@ -128,6 +128,7 @@
 * Hookshot 1st Switch Elegy Link
 * Hookshot Hookshot Step
 * Stand on Block Elegy Link
+* Owl Statue, if past Day 3 6PM, restart
 * **fill fairies**, refill on pots by STT
 * Right Switch Link
 * Block, Elegy
