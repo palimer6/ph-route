@@ -18,7 +18,6 @@
 * Across, Boss Key
 * Enter Odolwa
 * Odolwa's Remains
-* Bottle Target Game (20+)
 * Mountain Village Owl Song of Time
 
 # Cycle 2
