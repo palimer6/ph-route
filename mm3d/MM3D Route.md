@@ -157,7 +157,7 @@
 * left chest, small key
 * leave to east, shoot spikebombs, deku in there, deku to east
 * Batman, light arrows to scare bats, hit
-* BOSS KEY, leave again, deku back to west, southwest door
+* BOSS KEY (DO NOT SOAR), leave again, deku back to west, southwest door
 * flip boy, switch+
 * **refill fairies**
 * hookshot to new chest
