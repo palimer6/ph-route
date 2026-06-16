@@ -45,6 +45,7 @@
 * Goht's Remains
 * Get Powder Keg
 * Goron Race Bottle
+* GET KEG CERTIFICATE
 
 # Cycle 3+
 * New Day Money Keg Ranch (60+r)
