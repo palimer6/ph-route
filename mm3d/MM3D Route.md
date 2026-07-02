@@ -1,7 +1,7 @@
 # Cycle 0+1
 * Enter Clock Town
 * Grandma Scarecrow
-* Fairy Magic Bombs Clock Town (50r)
+* Stray Fairy, Magic, Bombs, Clock Tower (50r)
 * Song of Healing - Owl Statue
 * Swamp Statue Stick
 * D2 - R L S L L R - B L R - Potion
