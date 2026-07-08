@@ -147,7 +147,8 @@
 * stored light puzzle (8 ticks), next room
 * deku flight, next room, GARO MASTER, LIGHT ARROWS, soaring
 * **refill fairies**
-* flip temple, right, light block
+* left elegy, flip temple
+* right, light block
 * deku flight to high, through hole, switch, SMALL KEY
 * deku flight to TOP, locked door
 * flip, goron over, flip
