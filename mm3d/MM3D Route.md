@@ -29,9 +29,10 @@
 * Lullaby Intro
 * Goron Lullaby, Soar Mountain Village
 * Enter Snowhead Temple
-* Right Side, Main Room Across, Small Key
-* Melt to first room, Left Side, bomb, upstairs
+* Right Side, Main Room Across (yellow), Small Key
+* Melt to first room (red), Left Side (right door), bomb, upstairs
 * Key in Snowball
+* Stomp Yellow, Green, Yellow, leave with Green
 * Across Twice
 * Wizzrobe with Punch, Fire Arrow
 * Fall down Middle at ramp, melt green by yellow
