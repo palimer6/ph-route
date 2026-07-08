@@ -56,7 +56,7 @@
 * Night First Day Enter Grave
 * Song of Storms Inverted
 * Zora Mask
-* Great Bay Owl Statue
+* Lab Owl Statue
 * Upstairs Hookshot
 * <img src="pirate_path.png" alt="pirate_path">
 * 🔴 Hookshot Room
