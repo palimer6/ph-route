@@ -37,7 +37,7 @@
 * Wizzrobe with Punch, Fire Arrow
 * Fall down Middle at ramp, melt green by yellow
 * All torches, small room, Raise Pillar
-* Up from basement, right room, upstairs
+* Up from basement, right room (blue), upstairs
 * Punch Blocks, upstairs, Punch Blocks
 * Roll along wall, punch snowballs, upstairs
 * Roll across, Deku Flower to right door
