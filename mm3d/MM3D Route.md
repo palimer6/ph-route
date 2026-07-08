@@ -147,7 +147,7 @@
 * stored light puzzle (8 ticks), next room
 * deku flight, next room, GARO MASTER, LIGHT ARROWS, soaring
 * **refill fairies**
-* left elegy, flip temple
+* uninvert, left elegy, flip temple
 * right, light block
 * deku flight to high, through hole, switch, SMALL KEY
 * deku flight to TOP, locked door
@@ -168,6 +168,7 @@
 * switch, hookshot to chest, hookshot to target, TWINMOLD
 ### Twinmold
 * Shoot blue/red, 3 fire/ice + 1 normal (3 * 6 + 2 = 20)
+* reinvert if necessary
 ## Final
 * fill to two faires with ikana bush
 * enter clock tower
