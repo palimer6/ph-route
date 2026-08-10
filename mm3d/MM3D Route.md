@@ -1,13 +1,15 @@
 # Cycle 0+1
 * Enter Clock Town
 * Grandma Scarecrow
-* Fairy Magic Bombs Clock Town (50r)
-* Song of Healing
-* Song of Soaring Statue Stick
+* Stray Fairy, Magic, Bombs, Clock Tower (50r)
+* Song of Healing - Owl Statue
+* Swamp Statue Stick
 * D2 - R L S L L R - B L R - Potion
-* B L R - Soaring Boat Ride
-* Right Magic Bean
+* B L R - Void - Boat Ride
+* Right Stealth to Hole, Beans
+* Right Bean Soil
 * Sonata of Awakening
+* Song of Soaring
 * Enter Woodfall Temple
 * Right Side, first room, Small Key
 * Back and across, enter 2nd floor
@@ -16,7 +18,6 @@
 * Across, Boss Key
 * Enter Odolwa
 * Odolwa's Remains
-* Bottle Target Game (20+)
 * Mountain Village Owl Song of Time
 
 # Cycle 2
@@ -28,14 +29,15 @@
 * Lullaby Intro
 * Goron Lullaby, Soar Mountain Village
 * Enter Snowhead Temple
-* Right Side, Main Room Across, Small Key
-* Melt to first room, Left Side, bomb, upstairs
+* Right Side, Main Room Across (yellow), Small Key
+* Melt to first room (red), Left Side (right door), bomb, upstairs
 * Key in Snowball
+* Stomp Yellow, Green, Yellow, leave with Green
 * Across Twice
 * Wizzrobe with Punch, Fire Arrow
 * Fall down Middle at ramp, melt green by yellow
 * All torches, small room, Raise Pillar
-* Up from basement, right room, upstairs
+* Up from basement, right room (blue), upstairs
 * Punch Blocks, upstairs, Punch Blocks
 * Roll along wall, punch snowballs, upstairs
 * Roll across, Deku Flower to right door
@@ -43,20 +45,22 @@
 * Fall Onto White Platform, upstairs, Enter Boss
 * Goht's Remains
 * Get Powder Keg
+* Goron Race Bottle
+* GET KEG CERTIFICATE
 
 # Cycle 3+
 * New Day Money Keg Ranch (60+r)
 * Epona's Song
 * Gorman Race Garo Mask
-* Captain's Hat
+* Captain's Hat (Bow to stun, then Goron)
 * Night First Day Enter Grave
 * Song of Storms Inverted
 * Zora Mask
-* Great Bay Owl Statue
+* Lab Owl Statue
 * Upstairs Hookshot
 * <img src="pirate_path.png" alt="pirate_path">
 * 🔴 Hookshot Room
-* 🔵 Backflip
+* 🔵 Backflip (Slightly left from pole, stand far from ledge)
 * Soaring Drop Off Eggs
 * 🟢 Directly left, 2 Hookshots
 * 🟡 Directly left, 3 Hookshots
@@ -89,7 +93,7 @@
 * frozen chuchu to valve
 * through next rooms
 * ice arrows to northern path
-* Miniboss Gekko BIG KEY, soaring
+* Miniboss Gekko BIG KEY, soaring, **refill fairies**
 * hookshot to northwest ceiling corner, crank big red
 * crank big yellow
 * big spinny room, freeze waterfall, ladder, door
@@ -104,18 +108,18 @@
 * leave, bottom green path
 * follow green pipe, green valve, jump over spout, Gyorg
 ### Gyorg
-* shoot with arrows in first phase
-* postpone water combat as long as possible with ice platforms, pelt with arrows
-* cut bomb into him close, DONT GET VORED
+* stun with scales or arrow
+* damage with barrier, try to multistun
+* DONT GET VORED
 ## Ikana
-* Keg, Fish, Nut (90 rups)
+* Keg, Fish, 10 Nuts (130 rups)
 * Grotto Milk (in south stump)
-* Bean (southern swamp salesman
+* 5 Beans (southern swamp salesman)
 * Ikana Owl Statue
 * Song of Storms
 * Gibdo Mask
-* Right Beans D, Left Fish
-* Right Nuts D, Left Bombs D, Fight Big Poe
+* Right 5 Beans D, Left Fish
+* Right 10 Nuts D, Left 10 Bombs D, Fight Big Poe
 * Backtrack to Fish Door, Forward Poe D, Forward Milk D
 * Mirror Shield
 * Left Side Toss Keg Enter
@@ -125,6 +129,7 @@
 * Hookshot 1st Switch Elegy Link
 * Hookshot Hookshot Step
 * Stand on Block Elegy Link
+* Owl Statue, if past Day 3 6PM, restart
 * **fill fairies**, refill on pots by STT
 * Right Switch Link
 * Block, Elegy
@@ -137,13 +142,13 @@
 * bomb floor in new room, fall
 * kill all armos with goron, SMALL KEY
 * back up, locked door
-* dolphin jump onto opposite ledge
-* deku hop to switch, SMALL KEY
+* dolphin jump onto opposite ledge, SMALL KEY
 * dive to east, surface, locked door
 * stored light puzzle (8 ticks), next room
 * deku flight, next room, GARO MASTER, LIGHT ARROWS, soaring
 * **refill fairies**
-* flip temple, right, light block
+* uninvert, left elegy, flip temple
+* right, light block
 * deku flight to high, through hole, switch, SMALL KEY
 * deku flight to TOP, locked door
 * flip, goron over, flip
@@ -155,18 +160,15 @@
 * left chest, small key
 * leave to east, shoot spikebombs, deku in there, deku to east
 * Batman, light arrows to scare bats, hit
-* BOSS KEY, leave again, deku back to west, southwest door
+* BOSS KEY (DO NOT SOAR), leave again, deku back to west, southwest door
 * flip boy, switch+
 * **refill fairies**
 * hookshot to new chest
-* 4 light arrows on eyegore
+* 4 light arrows on eyegore, GIANT MASK
 * switch, hookshot to chest, hookshot to target, TWINMOLD
 ### Twinmold
-* focus on blue, normal arrows
-* GIANT MASK
-* hit enough in one cycle
-* grab tail, SPIN PAD
-* throw boulders
+* Shoot blue/red, 3 fire/ice + 1 normal (3 * 6 + 2 = 20)
+* reinvert if necessary
 ## Final
 * fill to two faires with ikana bush
 * enter clock tower
@@ -176,5 +178,7 @@
 * zora shoot, goron punch
 * Light or normal arrow remains
 * mirror shield beam of majora
-### Incarnation + Wrath
-* shoot with normal, goron punch
+### Incarnation
+* shoot with normal, goron slam for double hit
+### Wrath
+* shoot with light, even without magic, goron punch
